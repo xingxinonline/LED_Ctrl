@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TKStudioOptions Version="3.00" Author="YinHandong[Òüº®¶¬]">
+    <Projects OPTPES="96,96,0,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0,0,0,0,0,0,0,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,">
+        <Project ProjectGUID="{62618A01-D234-47f6-947B-4EAE2E47A8B6}" Name="STM32-LedCrtl" ACTCFG="LED-DEMO">
+            <TARGOPT Name="LED-DEMO" OPTDF="0">
+                <OPTFFF VAL="&lt;..\cmsis\stm32f10x.h&gt; {0,1,-1,-1,44,44,1068,398,8284,633238}" />
+                <OPTFFF VAL="&lt;.\user\globalvar.c&gt; {0,1,-1,-1,44,44,1068,398,175,3961}" />
+                <OPTFFF VAL="&lt;.\user\sys.c&gt; {0,1,-1,-1,44,44,1068,398,52,2162}" />
+                <OPTFFF VAL="&lt;.\inc\rtc.h&gt; {0,1,-1,-1,44,44,1068,398,12,1009}" />
+                <OPTFFF VAL="&lt;.\user\datadeal.c&gt; {0,1,-1,-1,44,44,1068,398,725,27929}" />
+                <OPTFFF VAL="&lt;.\user\config.c&gt; {0,1,-1,-1,44,44,1068,398,85,3835}" />
+                <OPTFFF VAL="&lt;.\user\stm32f10x_it.c&gt; {0,1,-1,-1,44,44,1068,398,101,992}" />
+                <OPTFFF VAL="&lt;..\fwlib\src\stm32f10x_gpio.c&gt; {0,1,-1,-1,44,44,1068,398,4,749}" />
+                <OPTFFF VAL="&lt;.\user\crc16.c&gt; {0,1,-1,-1,44,44,1068,398,0,223}" />
+                <OPTFFF VAL="&lt;.\user\stmflash.c&gt; {0,1,-1,-1,44,44,1068,398,0,181}" />
+                <OPTFFF VAL="&lt;.\user\rtc.c&gt; {0,1,-1,-1,44,44,1068,398,174,6260}" />
+                <OPTFFF VAL="&lt;.\inc\datadeal.h&gt; {0,1,-1,-1,44,44,1068,398,5,528}" />
+                <OPTFFF VAL="&lt;..\fwlib\src\stm32f10x_flash.c&gt; {0,1,-1,-1,44,44,1068,398,0,749}" />
+                <OPTFFF VAL="&lt;..\fwlib\src\stm32f10x_usart.c&gt; {0,1,-1,-1,44,44,1068,398,133,5441}" />
+                <OPTFFF VAL="&lt;.\user\utils.c&gt; {0,1,-1,-1,44,44,1068,398,156,3312}" />
+                <OPTFFF VAL="&lt;.\inc\timer.h&gt; {0,1,-1,-1,44,44,1068,398,0,608}" />
+                <OPTFFF VAL="&lt;..\fwlib\src\stm32f10x_spi.c&gt; {0,1,-1,-1,44,44,1068,398,34,749}" />
+                <OPTFFF VAL="&lt;.\inc\flash.h&gt; {0,1,-1,-1,44,44,1068,398,46,2622}" />
+                <OPTFFF VAL="&lt;.\inc\delay.h&gt; {0,1,-1,-1,44,44,1068,398,4,749}" />
+                <OPTFFF VAL="&lt;.\user\timer.c&gt; {0,1,-1,-1,44,44,1068,398,30,1984}" />
+                <OPTFFF VAL="&lt;.\inc\globalvar.h&gt; {0,1,-1,-1,44,44,1068,398,99,3355}" />
+                <OPTFFF VAL="&lt;..\cmsis\system_stm32f10x.c&gt; {0,1,-1,-1,44,44,1068,398,0,749}" />
+                <OPTFFF VAL="&lt;.\user\flash.c&gt; {0,1,-1,-1,44,44,1068,398,125,4660}" />
+                <OPTFFF VAL="&lt;.\inc\config.h&gt; {0,1,-1,-1,44,44,1068,398,0,199}" />
+                <OPTFFF VAL="&lt;.\user\usart.c&gt; {2,3,-1,-1,44,44,1068,398,242,10651}" />
+                <OPTFFF VAL="&lt;..\fwlib\src\stm32f10x_exti.c&gt; {0,1,-1,-1,44,44,1068,398,4,749}" />
+                <OPTFFF VAL="&lt;.\inc\sys.h&gt; {0,1,-1,-1,44,44,1068,398,46,2727}" />
+                <OPTFFF VAL="&lt;.\user\main.c&gt; {0,1,-1,-1,44,44,1068,398,119,10443}" />
+                <OPTFFF VAL="&lt;.\user\sth10.c&gt; {0,1,-1,-1,44,44,1068,398,121,10467}" />
+                <OPTFFF VAL="&lt;.\user\delay.c&gt; {0,1,-1,-1,44,44,1068,398,121,4640}" />
+                <OPTFFF VAL="&lt;..\cmsis\core_cm3.c&gt; {0,1,-1,-1,44,44,1068,398,4,749}" />
+                <OPTFFF VAL="&lt;..\fwlib\src\stm32f10x_rtc.c&gt; {0,1,-1,-1,44,44,1068,398,4,797}" />
+                <OPTFFF VAL="&lt;..\fwlib\src\stm32f10x_rcc.c&gt; {0,1,-1,-1,44,44,1068,398,4,749}" />
+                <OPTFFF VAL="&lt;.\user\debug.c&gt; {0,1,-1,-1,44,44,1068,398,0,278}" />
+                <OPTFFF VAL="&lt;.\user\spi.c&gt; {0,1,-1,-1,44,44,1068,398,9,223}" />
+            </TARGOPT>
+        </Project>
+    </Projects>
+</TKStudioOptions>
