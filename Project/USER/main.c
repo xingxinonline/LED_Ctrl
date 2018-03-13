@@ -53,8 +53,8 @@ int main(void)
 	#ifdef DEBUGE 
 	TimePrint_dbg();
 	#endif
-	GetChipUniqueID();
-	GetFlashSize();
+//	GetChipUniqueID();
+//	GetFlashSize();
 	while (1)
 	{	
 		IWDG_Feed();
